@@ -1,0 +1,17 @@
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\Business.deps.json
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\Business.dll
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\Business.pdb
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\DataAccess.dll
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\Entity.dll
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\VS CODE\MovieProject\Business\bin\Debug\net6.0\Entity.pdb
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.dll
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\refint\Business.dll
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\Business.pdb
+D:\VS CODE\MovieProject\Business\obj\Debug\net6.0\ref\Business.dll
